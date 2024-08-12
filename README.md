@@ -18,7 +18,9 @@ Make sure to install all necessary Python libraries before starting the analysis
 ## Usage
 Run the Analysis:
 Open the Crypto_Clustering.ipynb notebook and run each cell sequentially. The notebook is designed to guide you through the data loading, preparation, analysis, and visualization steps.
-Link to rypto_Clustering.ipynb notebook: 
+
+Link to rypto_Clustering.ipynb notebook: https://github.com/pandarik/CryptoClustering/blob/main/Crypto_Clustering.ipynb
+
 
 ## Explore Results:
 The notebook will generate several plots to help visualize the clustering results. Use these plots to draw conclusions about how cryptocurrencies are affected by price changes.
